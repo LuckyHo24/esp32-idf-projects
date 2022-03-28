@@ -1,0 +1,5 @@
+esp-idf-v4.2.3/
+*.obj
+*.a
+*.cmake
+**/build/
